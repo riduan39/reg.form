@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233366641123",
+    "project_id": "signing-form",
+    "storage_bucket": "signing-form.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233366641123:android:ea15b3a74317cacf37e8d6",
+        "android_client_info": {
+          "package_name": "com.example.mtapp24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233366641123-blgk18jm7enehj60mf019tns62lclrc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mtapp24",
+            "certificate_hash": "bd593eeba7a39b30923cff9033a40df25a3bcad1"
+          }
+        },
+        {
+          "client_id": "233366641123-o4on3jus90uubm2mnc04f3q812m9u9lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUa1J1dkuK5ZUIDMtxT6KxrVSzWJ02iZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233366641123-o4on3jus90uubm2mnc04f3q812m9u9lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
